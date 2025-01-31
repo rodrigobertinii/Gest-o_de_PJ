@@ -6,7 +6,7 @@ Desenvolvi, em colaboração com um colega, uma solução completa para gestão 
 
 ## O Desafio
 
-A empresa enfrentava dificuldades em monitorar o tempo dedicado pelos prestadores de serviço em cada atividade, calcular reembolsos de despesas e garantir uma distribuição equilibrada de recursos entre os clientes. Era essencial ter uma visão clara do desempenho de cada PJ, dos custos envolvidos e da alocação de esforços por cliente.
+A empresa PC Comunicação enfrentava dificuldades em monitorar o tempo dedicado pelos prestadores de serviço em cada atividade, calcular reembolsos de despesas e garantir uma distribuição equilibrada de recursos entre os clientes. Era essencial ter uma visão clara do desempenho de cada PJ, dos custos envolvidos e da alocação de esforços por cliente.
 
 ## A Solução
 
